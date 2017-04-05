@@ -23,5 +23,3 @@ def translate(str)
   puts new_array
   new_array.join(" ")
 end
-
-translate("quiet")
